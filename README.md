@@ -1,16 +1,18 @@
-### Hi there 👋
+Helloo!! I'm Brianna Anderson:👋
 
-<!--
-**br1anna2022/br1anna2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 A second-year Computer Science major @UWI 🎓
+🚀 An aspiring Front-End Developer on a Journey of Learning and Creation 🌟
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End: HTML, CSS, JavaScript
+
+💡 What Drives Me:
+
+Crafting web solutions from scratch
+Learning new technologies & languages
+Building applications to solve real-world problems
+
+Join me on this exciting journey as I create various applications to achieve my goal of becoming a front-end developer. Together, we can learn, grow, and build awesome projects! 🚀💻
+
+Fun Fact about me is that I am Tiger enthusiast 🐅 and Poetry lover 📜
