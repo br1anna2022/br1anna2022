@@ -1,6 +1,7 @@
 Helloo!! I'm Brianna Anderson:👋
 
 👨‍💻 A second-year Computer Science major @UWI 🎓
+
 🚀 An aspiring Front-End Developer on a Journey of Learning and Creation 🌟
 
 🛠️ Tech Stack:
