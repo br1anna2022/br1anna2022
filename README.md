@@ -6,7 +6,8 @@ Helloo!! I'm Brianna Anderson:👋
 
 🛠️ Tech Stack:
 
-Front-End: HTML, CSS, JavaScript, PHP, MySQL
+Front-End: HTML, CSS, JavaScript
+Back-End: PHP, MySQL
 
 💡 What Drives Me:
 
